@@ -100,6 +100,20 @@ To become India’s default AI governance assistant — empowering citizens with
 
 ---
 
+## 🛠️ Tech Stack (Proposed)
+
+**AI Intelligence:** Advanced Large Language Models (Gemini-class) for reasoning, eligibility understanding, and policy simplification.
+
+**Retrieval System:** Retrieval-Augmented Generation (RAG) connected to verified government datasets to ensure factual and hallucination-resistant responses.
+
+**Voice Layer:** Speech-to-text and text-to-speech systems compatible with initiatives like Bhashini to support multilingual, voice-first interactions.
+
+**Document Processing:** OCR pipeline for extracting citizen data from uploaded documents to reduce manual form filling.
+
+**Platform Integration:** Messaging platform APIs (e.g., WhatsApp Business) to maximize accessibility without requiring new app downloads.
+
+**Infrastructure:** Cloud-native architecture designed for high availability, security, and national-scale deployment.
+
 ## 📄 Documentation
 
 - Requirements → `requirements.md`  
