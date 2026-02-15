@@ -61,7 +61,7 @@ AI enables:
 - Natural language conversations  
 - Context-aware responses  
 - Personalized recommendations  
-- Simplification of legal/government terminology  
+- - Semantically translating complex Government Resolutions (GRs) into simple, hyper-local language (e.g., explaining legal eligibility in Bhojpuri, Marathi, or Tamil), a task traditional rule-based systems fail to achieve. 
 - Intelligent query handling  
 
 Thus, AI is not just an enhancement — it is essential for delivering scalable and human-like assistance.
