@@ -95,6 +95,23 @@ Users receive:
 Creating a continuous assistance experience rather than a one-time interaction.
 
 ---
+## 🔄 Data Flow Architecture
+
+[User Voice/Text Query]  
+        ↓  
+Speech Processing / Text Input  
+        ↓  
+LLM interprets intent & extracts user needs  
+        ↓  
+RAG Engine retrieves verified scheme data  
+        ↓  
+Eligibility Engine matches citizen profile  
+        ↓  
+AI simplifies policy into user-friendly guidance  
+        ↓  
+Application Assistance with User Consent  
+        ↓  
+Response delivered via text or voice
 
 ## 4. AI Design Approach
 
